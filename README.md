@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1464667760.svg)](https://doi.org/10.5281/zenodo.24380639)
 # PeriSafe-Eval (v1.0): A Clinical Safety and Red-Flag Evaluation Protocol for Perinatal and Obstetric LLM Triage
 
 **Author:** Arzu Nurullaeva, MD (OB/GYN, Perinatal Psychiatry Researcher, Medical AI Safety Specialist)  
@@ -266,4 +267,5 @@ Each model response is scored independently across two safety axes on a **0 to 3
 ---
 
 ## 8. How to Cite This Work
-> Nurullaeva, A. (2026). *PeriSafe-Eval (v1.0): A Clinical Safety and Red-Flag Evaluation Protocol for Perinatal and Obstetric LLM Triage*. Zenodo. [DOI will be inserted upon release]
+> Nurullaeva, A. (2026). *PeriSafe-Eval (v1.0): A Clinical Safety and Red-Flag Evaluation Protocol for Perinatal and Obstetric LLM Triage*. Zenodo.
+> [![DOI](https://zenodo.org/badge/1464667760.svg)](https://doi.org/10.5281/zenodo.24380639)
